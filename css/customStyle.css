@@ -1,0 +1,42 @@
+/* body{
+    background-color: #E4E6E7;
+} */
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.navbar-brand p{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(44, 44, 44);
+    font-size: 0.9em;
+}
+.card{
+    text-align: center;
+}
+.card-tittle{
+    font-weight: bold;
+}
+#mapid{
+    margin: auto;
+    max-width: 8000px;
+    height: 400px;
+}
+
+.card-header{
+    font-weight: bolder;
+}
+
+.jumbotron{
+    background: rgb(34,213,34);
+background: linear-gradient(137deg, rgba(34,213,34,1) 0%, rgba(116,222,146,1) 67%, rgba(38,194,56,1) 100%);
+    position: relative;
+    overflow: hidden;
+    display:flex;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    justify-items: flex-end;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    }
+
